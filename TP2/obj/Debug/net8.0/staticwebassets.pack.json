@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\images\\390e1552-1e5c-4e0e-be9e-4fb991622120_canape-moderne.jpg",
+      "PackagePath": "staticwebassets\\images\\390e1552-1e5c-4e0e-be9e-4fb991622120_canape-moderne.jpg"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\images\\75279139-e47b-47be-9a1c-874c0b8dc131_table.jpg",
+      "PackagePath": "staticwebassets\\images\\75279139-e47b-47be-9a1c-874c0b8dc131_table.jpg"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\images\\7ce2c644-7582-4eaf-b34b-bc69c27e1f17_chair.jpg",
+      "PackagePath": "staticwebassets\\images\\7ce2c644-7582-4eaf-b34b-bc69c27e1f17_chair.jpg"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\images\\c3b9cd13-8e21-420a-9609-e726c4da7b09_meuble-tv-ramla-frene-152x53x46-cm-3-tiroirs.jpg",
+      "PackagePath": "staticwebassets\\images\\c3b9cd13-8e21-420a-9609-e726c4da7b09_meuble-tv-ramla-frene-152x53x46-cm-3-tiroirs.jpg"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\images\\dcddccbb-aa81-4479-81d7-e5d18e4daf35_meuble-de-cuisine2-portes-2_tiroirs.jpg",
+      "PackagePath": "staticwebassets\\images\\dcddccbb-aa81-4479-81d7-e5d18e4daf35_meuble-de-cuisine2-portes-2_tiroirs.jpg"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MPDSIR2\\DOTnet\\dotNetTPWorkspace\\TP2\\TP2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP2.props",
+      "PackagePath": "build\\TP2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP2.props",
+      "PackagePath": "buildMultiTargeting\\TP2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP2.props",
+      "PackagePath": "buildTransitive\\TP2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
